@@ -24,6 +24,6 @@ console.log((typeof parseInt("5", 10))); // number
 /*
 再引用:  
 > If _string_ is not a string, then it is converted to one.  
-抄訳: 引数 _string_ が文字列ではない場合、もとの _string_ に変換されます。
+抄訳: 引数 _string_ が文字列ではない場合、string 型に変換されます。
 ってとこ？
 */
