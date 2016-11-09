@@ -2,6 +2,8 @@
 (原文がアップデートされている場合、それに追いついていない可能性があります。)
 - - -
 
+# Webkit! RESOLVED FIXED
+
 先週の [作業ログ](http://www.otsukare.info/2016/01/02/worklog-new-year) でも言及しています。2016-01-02 09:39:38 (日本標準時) に、Mozilla は新しい機能を Firefox で有効化し、
 とても重要な課題をクローズしました: [Bug 1213126 - Enable layout.css.prefixes.webkit by default](https://bugzilla.mozilla.org/show_bug.cgi?id=1213126)。
 たくさんの人の尽力に感謝します。[百聞](http://idlewords.com/talks/website_obesity.htm) は一見に如かずということで、まず例を見ましょう。
@@ -9,7 +11,7 @@
 - 左側は、`layout.css.prefixes.webkit; true` (現在の Firefox Nightly のデフォルトです)
 - 右側は、`layout.css.prefixes.webkit; false` (現在の Firefox Developer Edition の場合です)
 
-*画像のURL http://www.otsukare.info/images/20160104-mbga.png*
+![Mobage screenshot with webkit activated](http://www.otsukare.info/images/20160104-mbga.png)
 
 この活動の起源、どう取り組んだか、なぜ取り組んだかについて以下で説明します。
 
