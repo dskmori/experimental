@@ -1,4 +1,4 @@
-これは、[Fixing Gmail on Firefox Android](http://www.otsukare.info/2016/03/17/fixing-broken-gmail) (posted on Thu, 25 Feb 2016 by Karl Dubost) の抄訳です。
+これは、[Fixing Gmail on Firefox Android](http://www.otsukare.info/2016/03/17/fixing-broken-gmail) (posted on Thu, 17 Mar 2016 by Karl Dubost) の抄訳です。
 - - -
 
 # Firefox Android での Gmail を修正する
